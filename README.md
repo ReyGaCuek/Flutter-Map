@@ -72,6 +72,8 @@ A simple Flutter application demonstrating how to display a map and access the u
 ## 📄 License
 MIT – see [LICENSE](LICENSE)
 
+---
+
 ## ⚙️ Getting Started
 
 ```bash
