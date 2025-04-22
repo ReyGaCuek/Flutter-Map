@@ -51,6 +51,7 @@ A simple Flutter application demonstrating how to display a map and access the u
 ### 📱 Device Requirements
 
 - **Android**:
+
   - Android 5.0+ device
   - Google Play Services enabled
 
@@ -70,6 +71,7 @@ A simple Flutter application demonstrating how to display a map and access the u
 ---
 
 ## 📄 License
+
 MIT – see [LICENSE](LICENSE)
 
 ---
@@ -86,3 +88,4 @@ flutter pub get
 
 # 3. Run the app
 flutter run
+```
