@@ -1,0 +1,37 @@
+# Dart/Pub/Flutter
+.dart_tool/
+.packages
+.pub/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+build/
+coverage/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode (optional)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Symbolication/obfuscation
+app.*.symbols
+app.*.map.json
+
+# Miscellaneous
+*.log
+*.class
+*.pyc
+*.swp
+.history
