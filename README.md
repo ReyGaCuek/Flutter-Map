@@ -42,9 +42,29 @@ A simple Flutter application demonstrating how to display a map and access the u
 
 ### 🛠️ Development Environment
 
+To build and run this project successfully, ensure the following tools and dependencies are installed:
+
+- Flutter SDK (recommended: latest stable version)
+
 - Android Studio (for Android) or Xcode (for iOS)
-- Android SDK (min API Level 21 - Android 5.0 Lollipop)
-- Xcode (min version 13, iOS 11.0+)
+
+- Android SDK (minimum API Level 21 - Android 5.0 Lollipop)
+
+- Xcode (minimum version 13, supports iOS 11.0+)
+
+- Android NDK version 27.0.12077973 or higher
+(Required for native plugins compatibility and Flutter builds using JNI/native libs)
+
+- Gradle version 8.0 or higher
+(Ensure gradle-wrapper.properties is updated accordingly)
+
+- Plugin dependencies such as permission_handler should use the latest compatible versions (e.g., ^11.0.0) to avoid deprecated API errors (PluginRegistry.Registrar)
+
+To avoid build errors, also make sure:
+
+- Your build.gradle.kts includes the correct ndkVersion
+
+- minSdkVersion is set to 21 or above in defaultConfig
 
 ---
 
