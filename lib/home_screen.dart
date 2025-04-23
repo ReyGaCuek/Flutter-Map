@@ -52,7 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flutter Map Demo'),
+        title: const Text('Flutter Map Demo by AndreasXin'),
         actions: [
           IconButton(
             icon: const Icon(Icons.my_location),
