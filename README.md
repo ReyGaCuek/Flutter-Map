@@ -76,6 +76,13 @@ MIT – see [LICENSE](LICENSE)
 
 ---
 
+## 🖼️ Preview
+
+<img src="preview1.png" alt="Map demo" width="200"/>
+<img src="preview2.png" alt="Map demo" width="200"/>
+
+---
+
 ## ⚙️ Getting Started
 
 ```bash
